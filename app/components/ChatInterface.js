@@ -1,5 +1,6 @@
 "use client";
 import { useState, useRef, useEffect } from "react";
+import ReactMarkdown from "react-markdown";
 
 export default function ChatInterface() {
   const [messages, setMessages] = useState([
@@ -120,7 +121,45 @@ export default function ChatInterface() {
                   : "bg-white text-gray-800 border border-gray-200"
               }`}
             >
-              <p className="whitespace-pre-wrap">{msg.content}</p>
+              <div
+                style={{
+                  fontSize: "15px",
+                  lineHeight: "1.6",
+                  color: msg.role === "assistant" ? "#1f2937" : "#ffffff",
+                }}
+              >
+                {msg.role === "assistant" ? (
+                  <ReactMarkdown
+                    components={{
+                      strong: ({ node, ...props }) => (
+                        <strong style={{ color: "#000000" }} {...props} />
+                      ),
+                      ul: ({ node, ...props }) => (
+                        <ul style={{ marginLeft: "1.5rem", listStyleType: "disc" }} {...props} />
+                      ),
+                      ol: ({ node, ...props }) => (
+                        <ol style={{ marginLeft: "1.5rem", listStyleType: "decimal" }} {...props} />
+                      ),
+                      li: ({ node, ...props }) => (
+                        <li style={{ marginTop: "4px" }} {...props} />
+                      ),
+                      a: ({ node, ...props }) => (
+                        <a
+                          {...props}
+                          style={{ color: "#000000", textDecoration: "underline" }}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        />
+                      ),
+                    }}
+                  >
+                    {msg.content}
+                  </ReactMarkdown>
+                ) : (
+                  <p className="whitespace-pre-wrap">{msg.content}</p>
+                )}
+              </div>
+
             </div>
           </div>
         ))}

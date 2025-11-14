@@ -1,0 +1,61 @@
+{
+  "company": "InfoTechBrains",
+  "about": "InfoTechBrains is a technology company and strategic partner that provides comprehensive IT solutions, specializing in software development, AI integration, ERP/CRM solutions, and digital marketing services.",
+  "services": [
+    "Software Development and IT Solutions",
+    "Web Development: Building custom websites and applications",
+    "Mobile Development: Creating native and cross-platform mobile apps for iOS and Android",
+    "SaaS Development: Developing scalable, end-to-end Software as a Service (SaaS) platforms",
+    "API Development: Creating robust APIs and integrations for seamless system connectivity",
+    "AI Integration & Automation: Implementing machine learning, natural language processing, predictive analytics, and AI-powered chatbots to automate processes",
+    "IoT Application Development: Building intelligent ecosystems that connect devices and sensors for smart solutions in various industries",
+    "Cloud Solutions: Providing scalable cloud infrastructure and services",
+    "Cybersecurity: Offering comprehensive security solutions",
+    "Business Management Software (ERP & CRM)",
+    "CRM Solutions: Customizing and implementing Customer Relationship Management systems (including Salesforce consulting)",
+    "ERP Software: Providing complete Enterprise Resource Planning software for sectors like manufacturing, human resources, and project management",
+    "Digital Marketing",
+    "Social Media Marketing (SMM): Comprehensive services including strategy, content creation, advertising (Facebook, YouTube, Instagram, LinkedIn, etc.), community engagement, and analytics"
+  ],
+  "products": [
+    "CloudCampus: An AI-powered institution management system (ERP for education)",
+    "SyncWABA: A WhatsApp Business API platform for scalable messaging solutions",
+    "Meetinx.io: A unified meeting management dashboard that syncs across multiple platforms",
+    "LockYourDoc: A secure document sharing platform with encryption and e-signing capabilities",
+    "Callering: An AI voice agent platform for automating business calls, sales, and support"
+  ],
+  "industries_served": [
+    "Finance",
+    "Healthcare",
+    "E-commerce",
+    "Real Estate",
+    "Manufacturing",
+    "Education"
+  ],
+  "contact": {
+    "general_inquiries": "hello@infotechbrains.com",
+    "sales_inquiries": "sales@infotechbrains.com"
+  },
+  "offices": {
+    "india": [
+      {
+        "location": "Head Office (Allahabad/Prayagraj)",
+        "address": "Tilahapur Mode, Allahabad, Uttar Pradesh 212202, India"
+      },
+      {
+        "location": "Operating Office (Pune)",
+        "address": "DP Road, Kothrud, Pune, MH, 411038, India"
+      },
+      {
+        "location": "Branch Office (Faridabad)",
+        "address": "Mathura Road, Sanjay Colony 23/7, Faridabad, Haryana, India"
+      }
+    ],
+    "international": [
+      {
+        "location": "London, UK",
+        "address": "124 City Road, London, England EC1V 2NW, GB"
+      }
+    ]
+  }
+}

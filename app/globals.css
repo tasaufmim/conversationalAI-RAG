@@ -24,3 +24,29 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.markdown {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #1f2937;
+}
+
+.markdown strong {
+  color: #000000;
+}
+
+.markdown ul {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+}
+
+.markdown ol {
+  list-style-type: decimal;
+  margin-left: 1.5rem;
+}
+
+.markdown a {
+  color: #000000;
+  text-decoration: underline;
+}
+

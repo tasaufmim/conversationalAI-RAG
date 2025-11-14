@@ -1,0 +1,39 @@
+InfoTechBrains is a technology company and strategic partner that provides comprehensive IT solutions, specializing in software development, AI integration, ERP/CRM solutions, and digital marketing services. 
+Their key services and offerings include:
+Software Development and IT Solutions
+Web Development: Building custom websites and applications.
+Mobile Development: Creating native and cross-platform mobile apps for iOS and Android.
+SaaS Development: Developing scalable, end-to-end Software as a Service (SaaS) platforms.
+API Development: Creating robust APIs and integrations for seamless system connectivity.
+AI Integration & Automation: Implementing machine learning, natural language processing, predictive analytics, and AI-powered chatbots to automate processes.
+IoT Application Development: Building intelligent ecosystems that connect devices and sensors for smart solutions in various industries.
+Cloud Solutions: Providing scalable cloud infrastructure and services.
+Cybersecurity: Offering comprehensive security solutions. 
+Business Management Software (ERP & CRM) 
+CRM Solutions: Customizing and implementing Customer Relationship Management systems (including Salesforce consulting).
+ERP Software: Providing complete Enterprise Resource Planning software for sectors like manufacturing, human resources, and project management. 
+Digital Marketing
+Social Media Marketing (SMM): Comprehensive services including strategy, content creation, advertising (Facebook, YouTube, Instagram, LinkedIn, etc.), community engagement, and analytics. 
+Specific Products
+InfoTechBrains also offers several proprietary products: 
+CloudCampus: An AI-powered institution management system (ERP for education).
+SyncWABA: A WhatsApp Business API platform for scalable messaging solutions.
+Meetinx.io: A unified meeting management dashboard that syncs across multiple platforms.
+LockYourDoc: A secure document sharing platform with encryption and e-signing capabilities.
+Callering: An AI voice agent platform for automating business calls, sales, and support. 
+They serve a variety of industries, including finance, healthcare, e-commerce, real estate, manufacturing, and education.
+
+Office Locations
+India Offices: 
+Head Office (Allahabad/Prayagraj):
+Tilahapur Mode, Allahabad, Uttar Pradesh 212202, India
+Operating Office (Pune):
+DP Road, Kothrud, Pune, MH, 411038, India (another location in Aundh is also mentioned in some sources)
+Branch Office (Faridabad):
+Mathura Road, Sanjay Colony 23/7, Faridabad, Haryana, India 
+International Office: 
+London, UK:
+124 City Road, London, England EC1V 2NW, GB 
+Email Addresses
+General Inquiries: hello@infotechbrains.com
+Sales Inquiries: sales@infotechbrains.com 
